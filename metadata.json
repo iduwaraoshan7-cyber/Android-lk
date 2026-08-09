@@ -1,0 +1,6 @@
+{
+  "name": "SocialConnect",
+  "description": "All-in-one social experience combining Feeds, Stories, Reels, and Direct Messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
